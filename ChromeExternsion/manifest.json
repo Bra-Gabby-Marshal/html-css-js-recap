@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "My First Extension Leads Tracker",
+    "version": "1.0",
+    "description": "A simple Chrome extension",
+    "permissions": [],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+        }
+    }
+}
